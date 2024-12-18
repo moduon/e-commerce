@@ -29,8 +29,8 @@ Website Sale Checkout Skip Payment
 |badge1| |badge2| |badge3| |badge4| |badge5|
 
 This module allows to logged users to checkout with no payment step. At
-the end of the checkout proccess the quotation is sent to the user email
-address and set to *Qoutation Sent* state.
+the end of the checkout process the quotation is sent to the user email
+address and set to *Quotation Sent* state.
 
 **Table of contents**
 
@@ -80,11 +80,14 @@ Contributors
    -  David Vidal
    -  Alexandre Díaz
    -  Carlos Roca
+   -  Pilar Vargas
 
 -  Martin Wilderoth <martin.wilderoth@linserv.se>
 -  `Studio73 <https://www.studio73.es>`__:
 
    -  Miguel Gandia <miguel@studio73.es>
+
+-  Alexei Rivera <arivera@archeti.com>
 
 Maintainers
 -----------
