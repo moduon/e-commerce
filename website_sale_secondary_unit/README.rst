@@ -83,6 +83,7 @@ Contributors
   - Sergio Teruel
   - Carlos Roca
   - Pilar Vargas
+  - Carlos Lopez
 
 Maintainers
 -----------
