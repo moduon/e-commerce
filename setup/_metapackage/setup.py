@@ -21,6 +21,7 @@ setuptools.setup(
         'odoo-addon-website_sale_hide_empty_category>=15.0dev,<15.1dev',
         'odoo-addon-website_sale_hide_price>=15.0dev,<15.1dev',
         'odoo-addon-website_sale_invoice_address>=15.0dev,<15.1dev',
+        'odoo-addon-website_sale_menu_partner_top_selling>=15.0dev,<15.1dev',
         'odoo-addon-website_sale_order_cancel>=15.0dev,<15.1dev',
         'odoo-addon-website_sale_order_type>=15.0dev,<15.1dev',
         'odoo-addon-website_sale_product_assortment>=15.0dev,<15.1dev',
