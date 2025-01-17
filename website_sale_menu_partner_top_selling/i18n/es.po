@@ -28,8 +28,8 @@ msgid ""
 "Define the number of regular products you want to display in the e-commerce "
 "catalog."
 msgstr ""
-"Defina el número de productos habituales que desea mostrar en el catálogo "
-"de productos de comercio electrónico."
+"Defina el número de productos habituales que desea mostrar en el catálogo de "
+"productos de comercio electrónico."
 
 #. module: website_sale_menu_partner_top_selling
 #: model_terms:ir.ui.view,arch_db:website_sale_menu_partner_top_selling.products_categories_top_user_selling
