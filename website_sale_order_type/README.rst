@@ -29,7 +29,7 @@ Website sale order type
 |badge1| |badge2| |badge3| |badge4| |badge5|
 
 This module allows
-`sale_order_type <https://github.com/OCA/sale-workflow/tree/14.0/sale_order_type>`__
+`sale_order_type <https://github.com/OCA/sale-workflow/tree/17.0/sale_order_type>`__
 to work with websitesale.
 
 This module is useful for users having a sale order type defined in
@@ -83,6 +83,7 @@ Contributors
      - João Marques
      - Pilar Vargas
      - Stefan Ungureanu
+     - Carlos Lopez
 
 Maintainers
 -----------
